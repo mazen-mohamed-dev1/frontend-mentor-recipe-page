@@ -5,12 +5,6 @@ The challenge was to build a recipe page using only **HTML and CSS** and make it
 
 ---
 
-## 📸 Preview
-
-![Preview of the Simple Omelette Recipe Page](assets/images/image-omelette.jpeg)
-
----
-
 ## 🧩 Built With
 
 - Semantic **HTML5 markup**
